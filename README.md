@@ -16,9 +16,9 @@ Las bases de datos está contenidas en la carpeta 1_data y también pueden ser d
 
 La carpeta 2_script contiene seis códigos.
 
-1: calculos_enigh permite calcular el gasto en transporte público por deciles de ingreso en el Estado de México
+1: calculos_enigh permite calcular el gasto en transporte público por deciles de ingreso en el Estado de México.
 
-2 y 3: codigo_complementario_dos y codigo_complementario_uno permiten realizar algunas visualizaciones con datos del número de personas pasajeras en el Tren Suburbano
+2 y 3: codigo_complementario_dos y codigo_complementario_uno permiten realizar algunas visualizaciones con datos del número de personas pasajeras en el Tren Suburbano.
 
 4: codigo_principal_visualizaciones permite realizar las tres gráficas empleadas en la tesina.
 
@@ -35,6 +35,6 @@ Las visualizaciones están contenidas en la carpeta 3_viz.
 
 ***
 
-Las entrevistas anonimizadas, los documentos de notas periodísticas y solicitudes de información, así como el análisis mediante software (ATLAS.ti) de estas fuentes están disponibles en https://bit.ly/2yMBP3F. En el anterior enlace, también está disponible la versión final de la tesina. Todo el material propio es de uso libre citando este documento (CC BY 4.0).
+Las entrevistas anonimizadas, los documentos de notas periodísticas y solicitudes de información, así como el análisis mediante software (ATLAS.ti) de estas fuentes están disponibles en https://bit.ly/2yMBP3F. En el anterior enlace, también está disponible la versión final de la tesina. Todo el material propio es de uso libre citando la tesina (CC BY 4.0).
 
  
