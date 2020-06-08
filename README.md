@@ -9,7 +9,9 @@ Las bases de datos está contenidas en la carpeta 1_data y también pueden ser d
 
 - La base gasto contiene los datos abiertos de la ENIGH 2018 disponible en el siguiente link: https://www.inegi.org.mx/programas/enigh/nc/2016/default.html#Microdatos
 
-- Finalmente, la base metro (no acompañada por el peso del archivo) contiene la afluencia diaria por estación del Metro de la Ciudad de México y puede ser descargada del enlace https://datos.cdmx.gob.mx/explore/dataset/afluencia-diaria-del-metro-cdmx/table/?sort=-fecha 
+- Finalmente, la base metro (no acompañada por el peso del archivo) contiene la afluencia diaria por estación del Metro de la Ciudad de México y puede ser descargada del enlace: https://datos.cdmx.gob.mx/explore/dataset/afluencia-diaria-del-metro-cdmx/table/?sort=-fecha 
+
+- Las otras dos bases, iniciadas con el nombre tabulados, corresponden a la Encuesta Origen-Destino de la Zona Metropolitana del Valle de México cuyos datos pueden ser descargados del enlace: https://www.inegi.org.mx/programas/eod/2017/default.html#Tabulados
 
 
 ***
