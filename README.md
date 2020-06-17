@@ -5,13 +5,13 @@ Este repositorio contiene las bases de datos y el análisis en RStudio para la t
 
 Las bases de datos está contenidas en la carpeta 1_data y también pueden ser descargadas de los siguientes enlaces:
 
-- La base "pasajeros" contiene información mensual por estación del número de personas pasajeras en el Tren Suburbano. Las bases de datos son construidas a partir de la información del siguiente par de enlaces https://www.gob.mx/artf/acciones-y-programas/anuario-estadistico-ferroviario-2018 y https://www.gob.mx/artf/acciones-y-programas/pulso-del-sector-ferroviario-marzo-2020
+- La base "pasajeros" es un archivo de Excel que, en su hoja "anual", contiene información mensual del número de personas pasajeras en el Tren Suburbano. Asimismo, este archivo, en su hoja "estaciones", contiene información sobre el número de personas pasajeras anuales por estación del Tren Suburbano. Las bases de datos son construidas a partir de la información del siguiente par de enlaces https://www.gob.mx/artf/acciones-y-programas/anuario-estadistico-ferroviario-2018 y https://www.gob.mx/artf/acciones-y-programas/pulso-del-sector-ferroviario-abril-2020
 
-- La base gasto contiene los datos abiertos de la ENIGH 2018 disponible en el siguiente link: https://www.inegi.org.mx/programas/enigh/nc/2016/default.html#Microdatos
+- Las otras dos bases, iniciadas con el nombre "tabulados", corresponden a la Encuesta Origen-Destino de la Zona Metropolitana del Valle de México cuyos datos pueden ser descargados del enlace: https://www.inegi.org.mx/programas/eod/2017/default.html#Tabulados
 
-- Finalmente, la base metro (no acompañada por el peso del archivo) contiene la afluencia diaria por estación del Metro de la Ciudad de México y puede ser descargada del enlace: https://datos.cdmx.gob.mx/explore/dataset/afluencia-diaria-del-metro-cdmx/table/?sort=-fecha 
+- La base con el nombre "Conc" (no acompañada por el peso del archivo) del código calculos_enigh contiene los datos abiertos de la ENIGH 2018 disponible en el siguiente link: https://www.inegi.org.mx/programas/enigh/nc/2016/default.html#Microdatos
 
-- Las otras dos bases, iniciadas con el nombre tabulados, corresponden a la Encuesta Origen-Destino de la Zona Metropolitana del Valle de México cuyos datos pueden ser descargados del enlace: https://www.inegi.org.mx/programas/eod/2017/default.html#Tabulados
+- La base con el nombre "metro" (no acompañada por el peso del archivo) del código comparacion_con_metro contiene la afluencia diaria por estación del Metro de la Ciudad de México y puede ser descargada del enlace: https://datos.cdmx.gob.mx/explore/dataset/afluencia-diaria-del-metro-cdmx/table/?sort=-fecha 
 
 
 ***
@@ -26,13 +26,15 @@ La carpeta 2_script contiene seis códigos.
 
 5: comparacion_con_metro permite comparar datos de personas pasajeras del Tren Suburbano con las del Metro.
 
-6: Finalmente, el archivo enigh18_descripcion_calculo_r es un archivo del Inegi para realizar cálculos de la ENIGH.
+6: Finalmente, el archivo enigh18_descripcion_calculo_r es un archivo del Inegi para realizar cálculos con la ENIGH.
 
 
 ***
 
 
 Las visualizaciones están contenidas en la carpeta 3_viz.
+
+Las tres gráficas utilizadas para la tesina tienen el nombre de pasajeras (Gráfica 1), variacion_absoluta (Gráfica 2), y suburbano (Gráfica 3).
 
 
 ***
